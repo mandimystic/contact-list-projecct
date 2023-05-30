@@ -121,9 +121,8 @@ li {
         width: 25rem;
         height: 7rem;
         background-color:transparent;
-        border-radius: 0.3rem;
-        border-color: black;
-        border-style: groove;
+       
+      
     }
 
     #input-container{
@@ -167,8 +166,6 @@ li {
         #list {
             background-color:transparent;
             border-radius: 0.3rem;
-            border-color: black;
-            border-style: groove;
             margin: 0%;
             width: 30rem;
             height: 7rem;
